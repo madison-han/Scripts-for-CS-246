@@ -1,1 +1,1 @@
-Does not reflect what is taught in CS 246. 
+Does not reflect CS 246 curricula. 
